@@ -1,7 +1,7 @@
 import socket
 import threading
 import random
-target = '104.22.5.207'
+target = 'ip of the server' 
 
 port = 80
 num = 0
