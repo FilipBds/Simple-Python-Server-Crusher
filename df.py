@@ -23,6 +23,6 @@ def run():
 
 
 
-for i in range(10000):
+for i in range(10000): #instead of 10000 you can adjust(bigger nr better reslut
     thread = threading.Thread(target=run)
     thread.start()
